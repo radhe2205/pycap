@@ -14,8 +14,7 @@ setup(
         "tensorflow",
         "keras",
         "pillow",
-        "matplotlib",
-        "fastai"
+        "matplotlib"
     ],
     package_data={
         # If any package contains *.json, include them:
